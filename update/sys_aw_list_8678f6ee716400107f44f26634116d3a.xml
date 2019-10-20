@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list">
+    <sys_aw_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="test_tabel_1s">0a78f6ee716400107f44f26634116d32</category>
+        <columns>number,priority,state,assigned_to,assignment_group,short_description,opened_at,opened_by,closed_at,closed_by</columns>
+        <condition table="x_cdltd_test_test_tabel_1">active=false^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="false"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <groups/>
+        <order>300</order>
+        <roles/>
+        <sys_class_name>sys_aw_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-20 15:20:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8678f6ee716400107f44f26634116d3a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Closed</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Test" source="x_cdltd_test">6b1872ee716400107f44f26634116da0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test">6b1872ee716400107f44f26634116da0</sys_scope>
+        <sys_update_name>sys_aw_list_8678f6ee716400107f44f26634116d3a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-20 15:20:38</sys_updated_on>
+        <table>x_cdltd_test_test_tabel_1</table>
+        <title>Closed</title>
+        <workspace display_value="Test">0578f2ee716400107f44f26634116d3f</workspace>
+    </sys_aw_list>
+</record_update>
