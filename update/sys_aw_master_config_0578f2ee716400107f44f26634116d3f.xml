@@ -5,7 +5,7 @@
         <compiled_page_registry display_value="Test">0d78f2ee716400107f44f26634116d3f</compiled_page_registry>
         <description/>
         <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
-        <global_search_data display_value="Test Search Context Config">8578f2ee716400107f44f26634116d3d</global_search_data>
+        <global_search_data display_value="">8578f2ee716400107f44f26634116d3d</global_search_data>
         <name>Test</name>
         <navigation_type>tab</navigation_type>
         <notifications_enabled>true</notifications_enabled>
