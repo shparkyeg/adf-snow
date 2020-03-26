@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-10-20 15:20:06</sys_created_on>
-        <sys_id>509e5c1f71a840107f44f26634116d03</sys_id>
+        <sys_id>c4848fcd05ff00107f44c59560b37706</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_cdltd_test_test_tabel_1</sys_name>
         <sys_package display_value="Test" source="x_cdltd_test">6b1872ee716400107f44f26634116da0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Test">6b1872ee716400107f44f26634116da0</sys_scope>
-        <sys_update_name>ua_table_licensing_config_509e5c1f71a840107f44f26634116d03</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_c4848fcd05ff00107f44c59560b37706</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-10-20 15:20:06</sys_updated_on>
     </ua_table_licensing_config>
