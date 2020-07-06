@@ -18,9 +18,9 @@ if (gr.get("3fd2e41371e840107f44f26634116d9a")){
         <sys_id>4e12201371e840107f44f26634116dad</sys_id>
         <sys_mod_count>3</sys_mod_count>
         <sys_name>My fix Script to create updates</sys_name>
-        <sys_package display_value="Test" source="x_cdltd_test">6b1872ee716400107f44f26634116da0</sys_package>
+        <sys_package display_value="ADF Branches example" source="x_cdltd_test">6b1872ee716400107f44f26634116da0</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Test">6b1872ee716400107f44f26634116da0</sys_scope>
+        <sys_scope display_value="ADF Branches example">6b1872ee716400107f44f26634116da0</sys_scope>
         <sys_update_name>sys_script_fix_4e12201371e840107f44f26634116dad</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-10-22 12:30:17</sys_updated_on>

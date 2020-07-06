@@ -41,9 +41,9 @@
         <sys_mod_count>4</sys_mod_count>
         <sys_name>Fix Script Target</sys_name>
         <sys_overrides/>
-        <sys_package display_value="Test" source="x_cdltd_test">6b1872ee716400107f44f26634116da0</sys_package>
+        <sys_package display_value="ADF Branches example" source="x_cdltd_test">6b1872ee716400107f44f26634116da0</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Test">6b1872ee716400107f44f26634116da0</sys_scope>
+        <sys_scope display_value="ADF Branches example">6b1872ee716400107f44f26634116da0</sys_scope>
         <sys_update_name>sys_script_3fd2e41371e840107f44f26634116d9a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-10-22 12:30:59</sys_updated_on>

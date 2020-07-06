@@ -5,6 +5,7 @@
         <columns>number,priority,state,assigned_to,assignment_group,short_description,opened_at,opened_by,closed_at,closed_by</columns>
         <condition/>
         <groups/>
+        <list_attributes/>
         <order>400</order>
         <roles/>
         <sys_class_name>sys_aw_list</sys_class_name>
@@ -16,9 +17,9 @@
         <sys_mod_count>0</sys_mod_count>
         <sys_name>All</sys_name>
         <sys_overrides/>
-        <sys_package display_value="Test" source="x_cdltd_test">6b1872ee716400107f44f26634116da0</sys_package>
+        <sys_package display_value="ADF Branches example" source="x_cdltd_test">6b1872ee716400107f44f26634116da0</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Test">6b1872ee716400107f44f26634116da0</sys_scope>
+        <sys_scope display_value="ADF Branches example">6b1872ee716400107f44f26634116da0</sys_scope>
         <sys_update_name>sys_aw_list_ca78f6ee716400107f44f26634116d3b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-10-20 15:20:38</sys_updated_on>

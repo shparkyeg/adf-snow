@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
     <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
-        <dependency display_value="Task table schema" source="com.glide.task">b98b9587401333007f44890d19474581</dependency>
+        <dependency display_value="Task table schema" source="com.glide.task">d1fab885082300107f447452aafab969</dependency>
         <min_version>1.0.0</min_version>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-10-20 15:20:06</sys_created_on>
-        <sys_id>30a3478d05ff00107f44c59560b3777b</sys_id>
+        <sys_id>184c811631f950107f442660080e85b5</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_package display_value="Test" source="x_cdltd_test">6b1872ee716400107f44f26634116da0</sys_package>
+        <sys_package display_value="ADF Branches example" source="x_cdltd_test">6b1872ee716400107f44f26634116da0</sys_package>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-10-20 15:20:06</sys_updated_on>
     </sys_package_dependency_m2m>
