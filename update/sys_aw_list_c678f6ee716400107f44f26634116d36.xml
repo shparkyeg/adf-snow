@@ -7,6 +7,7 @@
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
         <groups/>
+        <list_attributes/>
         <order>100</order>
         <roles/>
         <sys_class_name>sys_aw_list</sys_class_name>

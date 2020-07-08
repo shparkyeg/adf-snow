@@ -5,6 +5,7 @@
         <columns>number,priority,state,assigned_to,assignment_group,short_description,opened_at,opened_by,closed_at,closed_by</columns>
         <condition/>
         <groups/>
+        <list_attributes/>
         <order>400</order>
         <roles/>
         <sys_class_name>sys_aw_list</sys_class_name>

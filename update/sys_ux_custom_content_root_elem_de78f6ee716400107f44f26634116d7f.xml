@@ -5,9 +5,11 @@
         <applicable_page display_value="Test">0d78f2ee716400107f44f26634116d3f</applicable_page>
         <attrs/>
         <children/>
-        <component display_value="sn-component-workspace-list-module">19622d2bff222300294153bd6338f1ef</component>
+        <component display_value="sn-workspace-list-module">19622d2bff222300294153bd6338f1ef</component>
         <is_root>true</is_root>
         <layout/>
+        <macroponent/>
+        <macroponent_config/>
         <name>Lists Module Content</name>
         <order>100</order>
         <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>

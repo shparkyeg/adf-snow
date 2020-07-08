@@ -3,7 +3,7 @@
         <active>true</active>
         <content display_value="Lists Module Content">de78f6ee716400107f44f26634116d7f</content>
         <content_attrs/>
-        <content_component display_value="sn-component-workspace-list-module">19622d2bff222300294153bd6338f1ef</content_component>
+        <content_component display_value="sn-workspace-list-module">19622d2bff222300294153bd6338f1ef</content_component>
         <content_tag/>
         <detail/>
         <detail_attrs/>

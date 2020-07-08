@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="R1 Branch Table" language="en" table="x_cdltd_test_r1_branch_table">
+    <sys_documentation element="" label="R1 Branch Only" language="en" table="x_cdltd_test_r1_branch_table">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
             <help/>
             <hint/>
-            <label>R1 Branch Table</label>
+            <label>R1 Branch Only</label>
             <language>en</language>
             <name>x_cdltd_test_r1_branch_table</name>
-            <plural>R1 Branch Tables</plural>
+            <plural>R1 Branch Onlies</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2020-03-25 13:32:55</sys_created_on>
-            <sys_id>cf6147c905ff00107f44c59560b37782</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>R1 Branch Table</sys_name>
+            <sys_id>e4069d5a31f950107f442660080e857c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>R1 Branch Only</sys_name>
             <sys_package display_value="Test" source="x_cdltd_test">6b1872ee716400107f44f26634116da0</sys_package>
             <sys_policy/>
             <sys_scope display_value="Test">6b1872ee716400107f44f26634116da0</sys_scope>
             <sys_update_name>sys_documentation_x_cdltd_test_r1_branch_table__en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-25 13:32:55</sys_updated_on>
+            <sys_updated_on>2020-07-06 13:02:07</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

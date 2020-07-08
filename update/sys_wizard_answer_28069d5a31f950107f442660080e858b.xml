@@ -14,16 +14,16 @@
         <script/>
         <sys_class_name>sys_wizard_answer</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-03-25 13:32:15</sys_created_on>
-        <sys_id>1541038905ff00107f44c59560b37707</sys_id>
+        <sys_created_on>2020-07-06 13:01:36</sys_created_on>
+        <sys_id>28069d5a31f950107f442660080e858b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>test_tabel_1</sys_name>
         <sys_package display_value="Test" source="x_cdltd_test">6b1872ee716400107f44f26634116da0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Test">6b1872ee716400107f44f26634116da0</sys_scope>
-        <sys_update_name>sys_wizard_answer_1541038905ff00107f44c59560b37707</sys_update_name>
+        <sys_update_name>sys_wizard_answer_28069d5a31f950107f442660080e858b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-03-25 13:32:15</sys_updated_on>
+        <sys_updated_on>2020-07-06 13:01:36</sys_updated_on>
         <table/>
         <target_url>x_cdltd_test_test_tabel_1.do</target_url>
         <type>1</type>
